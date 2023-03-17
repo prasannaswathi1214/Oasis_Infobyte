@@ -1,0 +1,41 @@
+.textbox{
+    background-color: #4b0082;
+    color:white;
+    width: 410px;
+    height: 75px;
+    font-size: 20px;
+}
+.number{
+    height:50px;
+    background-color: #4b0082;
+    width:100px;
+    color:white;
+    border:rgb(126,121,121) solid 1px;
+    border-radius:5px;
+}
+.clear{
+    height:82px;
+    background-color: #4b0082;
+    width:100px;
+    color:white;
+    border:rgb(126,121,121) solid 1px;
+    border-radius:5px;
+}
+.clear:hover{
+    background-color: #7f69c7;
+    color: #4b0082;
+    font-size: 25px;
+}
+table{
+    margin-top: 150px;
+    margin-left: 380px;
+    background-color: #f0e68c;
+}
+
+.number:hover {
+    box-shadow: inset 5px 5px 8px rgba(78, 37, 110, 0.1),
+        inset -5px -5px 8px #d2b6ef;
+    background: #7f69c7;
+    font-size: 25px;
+    color: #4b0082;
+}
